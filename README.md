@@ -1,4 +1,6 @@
-# Домашнее задание к лекции «Контейнеры» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/containers)****
+[![Build status](https://ci.appveyor.com/api/projects/status/vqys00ejg781xg78/branch/master?svg=true)](https://ci.appveyor.com/project/nagraiv/containers/branch/master)
+
+# Домашнее задание к лекции «Контейнеры» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/containers)
 
 **Важно**: код должен проходить ESLint без ошибок.
 
